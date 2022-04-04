@@ -2,3 +2,4 @@
 /learnGenerics/target/
 /learnThread/target/
 /.idea/
+/learnAnnotationAndReflection/target/*
