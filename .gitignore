@@ -1,5 +1,5 @@
-target/
-/learnGenerics/target/
-/learnThread/target/
+./learnThread/target
+./learnAnnotationAndReflection/target
 /.idea/
-/learnAnnotationAndReflection/target/*
+./learnAnnotationAndReflection/target
+.gitignore
