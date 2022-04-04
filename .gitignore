@@ -1,5 +1,3 @@
-./learnThread/target
-./learnAnnotationAndReflection/target
+target/
 /.idea/
-./learnAnnotationAndReflection/target
-.gitignore
+
