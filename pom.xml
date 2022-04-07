@@ -12,6 +12,7 @@
         <module>learnThread</module>
         <module>learnAnnotationAndReflection</module>
         <module>learnGenerics</module>
+        <module>testSomethingYouWant</module>
 
     </modules>
 
